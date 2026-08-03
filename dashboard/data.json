@@ -1,0 +1,703 @@
+{
+  "states": [
+    {
+      "id": "NC",
+      "name": "North Carolina",
+      "centers": 77,
+      "dir": "expanding",
+      "pay": "Unconfirmed",
+      "payclass": "warn",
+      "headline": "First statewide subsidy rate floor in the nation takes effect October 1, 2026 — but the gain is rural, and a directed study of decoupling star ratings from reimbursement is the largest quality-related revenue risk in the portfolio.",
+      "agency": "DHHS / Division of Child Development and Early Education",
+      "agencyhead": "Director Candace Witherspoon",
+      "ratio4": "1:20 (max group 25)",
+      "elig": "200% FPL (0–5); 133% FPL (5–12)",
+      "copay": "Up to 10% of gross income",
+      "ratevintage": "2023 market rate study — floor arriving Oct 2026",
+      "waitlist": "15,512 (Dec 2025), up from 2,164 (Jul 2024)",
+      "qris": "Star Rated License → 'Pathways to the Stars' (Jul 2025). Rates published by county AND star level. Decoupling plan directed, due May 1 2026.",
+      "prek": "NC Pre-K, mixed delivery. ~$7,117 state spending per child. $0 new funding in FY2026-27 plus an unfunded dyslexia screening mandate.",
+      "wage": "$7.25 federal floor; average teacher wage $14.20/hr",
+      "session": "January 2027 — long session, FY2027–29 biennium",
+      "politics": "All 170 legislative seats on the ballot. House Republicans are one seat from a veto-proof majority. Gov. Stein not up until 2028.",
+      "watch": [
+        "Model the county-by-county rate floor impact before October 1 — metro sites may capture nothing",
+        "Get DCDEE on record on post-rescission payment basis",
+        "Obtain the May 1, 2026 QRIS decoupling report",
+        "Inventory Pathways consultation dates; test whether Pathway 3 lets national accreditation reduce assessment burden",
+        "November 3 — House seat 72 decides whether deregulation proceeds over a veto"
+      ]
+    },
+    {
+      "id": "GA",
+      "name": "Georgia",
+      "centers": 76,
+      "dir": "split",
+      "pay": "Attendance (unconfirmed)",
+      "payclass": "warn",
+      "headline": "Georgia Pre-K — lottery-funded, roughly half privately delivered, ten of ten national quality benchmarks — is the strongest public revenue line in the footprint. CAPS has simultaneously contracted to the lowest initial eligibility threshold in the country.",
+      "agency": "Bright from the Start: DECAL — licensing AND CCDF lead agency",
+      "agencyhead": "Commissioner Amy M. Jacobs (12-year tenure)",
+      "ratio4": "1:18 (max group 36) — among the most permissive nationally",
+      "elig": "30% of SMI — lowest initial threshold in the US",
+      "copay": "Sliding, 0–7% by FPL band",
+      "ratevintage": "60th percentile; 2024 analysis of 2023 data. New cost survey in field now.",
+      "waitlist": "No published waitlist — access rationed by eligibility threshold",
+      "qris": "Quality Rated (1–3 stars). Mandatory for CAPS funding since Dec 31, 2021. Framework revision status unconfirmed.",
+      "prek": "Georgia Pre-K: $594M in FY2027, ~50% private delivery, 70,572 children, $30,000 startup grant per new classroom, 10/10 NIEER benchmarks.",
+      "wage": "$7.25 federal floor; median $13.35/hr. Pre-K salary parity with K-12 pulls the whole building's wage floor up.",
+      "session": "January 2027 — new two-year term; all prior bills die",
+      "politics": "Kemp term-limited. Rick Jackson (R) def. Lt. Gov. Burt Jones in the June 16 runoff; Keisha Lance Bottoms (D). Jones was the architect of Georgia's entire child care tax agenda.",
+      "watch": [
+        "Get into the DECAL / Georgia Policy Labs cost survey sample — it resets the CAPS rate benchmark",
+        "Resolve enrollment vs. attendance with DECAL; model an attendance/arrears reversion across 76 centers",
+        "Watch retention of Commissioner Jacobs and the identity of the new Lt. Governor (controls Senate referral)",
+        "Engage Sen. Chuck Payne on the SB 554 capital-grants refile; consider attaching a zoning provision",
+        "Model HB 1123 wraparound exposure at private Georgia Pre-K sites"
+      ]
+    },
+    {
+      "id": "AZ",
+      "name": "Arizona",
+      "centers": 30,
+      "dir": "contracting",
+      "pay": "Attendance (15 min)",
+      "payclass": "bad",
+      "headline": "Subsidy waitlist up 575% in 24 months and still growing faster than appropriations can clear it. First Things First's tobacco-tax revenue base is structurally decaying. A constitutionally indexed minimum wage compounds both.",
+      "agency": "ADHS Bureau of Child Care Licensing / DES Child Care Assistance",
+      "agencyhead": "ADHS Dir. Debbie Johnston (3rd in 3 yrs); DES Dir. Michael Wisehart",
+      "ratio4": "1:15 — no hard group-size caps",
+      "elig": "165% FPL — well below the federal ceiling",
+      "copay": "Sliding; schedule effective Aug 1, 2025",
+      "ratevintage": "2022 survey (75th pct infants / 50th pct all other ages). A 2024 survey exists and is unused.",
+      "waitlist": "~13,500 children / 7,916 families (July 2026) — +575% since Aug 2024",
+      "qris": "Quality First. 3+ stars unlocks a 40% subsidy rate enhancement — worth $25.66/day per subsidised infant. Appropriation-dependent, not an entitlement.",
+      "prek": "No state pre-K program. ESA vouchers exclude typically-developing 3s and 4s; the disability pathway and ESA-funded transitional-K are the openings.",
+      "wage": "$15.15 (Jan 2026), CPI-indexed annually with no legislative off-ramp",
+      "session": "~January 11, 2027",
+      "politics": "Hobbs (D) vs. Biggs (R), rated Tossup to Lean D. All 90 legislative seats. Two competing ESA measures on the November ballot.",
+      "watch": [
+        "ADHS 24-hour annual training compliance deadline is THIS MONTH — audit all 30 sites",
+        "November 3 — Governor plus HCR 2048 plus the Protect Education Act",
+        "DES response to the federal rescission; the 40% quality enhancement is the easiest line to trim",
+        "Press for a rate rebase to the unused 2024 survey in the FY2028 request cycle",
+        "The 2027 minimum wage is announced ~Sept/Oct — model it now"
+      ]
+    },
+    {
+      "id": "TX",
+      "name": "Texas",
+      "centers": 23,
+      "dir": "expanding",
+      "pay": "Enrollment, prospective, biweekly",
+      "payclass": "good",
+      "headline": "The only state in the portfolio that already built and paid for the payment architecture the 2024 federal rule required — $50M spent on the transition. The open question is whether TWC keeps it now the mandate has lapsed.",
+      "agency": "HHSC Child Care Regulation / TWC via 28 local workforce boards",
+      "agencyhead": "TWC Chairman Joe Esparza (Employers seat)",
+      "ratio4": "1:18 — group sizes unconfirmed",
+      "elig": "85% SMI, 12-month minimum eligibility",
+      "copay": "Sliding 2% to a 7% cap",
+      "ratevintage": "2025 survey — CURRENT. Higher of 75th pct or Cost of Quality baseline.",
+      "waitlist": "~95,000–100,000 children",
+      "qris": "Texas Rising Star, mandatory since Oct 2022. +5/+7/+9%. Entry gate is licensing compliance; also gates the property tax exemption.",
+      "prek": "Half-day pre-K via the Foundation School Program. HB 2 mandates 85% passthrough to private providers and anti-crowd-out verification, but removed full-day ADA protection.",
+      "wage": "$7.25, local ordinances preempted; teacher median $14/hr",
+      "session": "January 2027 — 140 days, writes the FY2028–29 budget",
+      "politics": "Abbott. Senate committee turnover: Education K-16 Chair Donna Campbell; Economic Development Chair Angela Paxton. Interim charges give child care unusual prominence.",
+      "watch": [
+        "The 40 TAC Chapter 809 final rule — does TWC keep enrollment-based prospective payment?",
+        "Governor's Task Force report due December 1, 2026 — it frames the whole 2027 debate",
+        "Whether Texas voluntarily keeps the 7% copay cap",
+        "SEMARC background-check operationalisation — confirm the screening vendor is ready",
+        "Property tax exemption per site: requires TRS participation AND ≥20% subsidy census"
+      ]
+    },
+    {
+      "id": "FL",
+      "name": "Florida",
+      "centers": 16,
+      "dir": "flat",
+      "pay": "Attendance, in arrears",
+      "payclass": "bad",
+      "headline": "VPK is a privately delivered public programme — 77% of providers are private. That is the political asset. It sits alongside the sharpest cost-versus-revenue divergence in the report: the wage floor rises 25% while the VPK allocation holds at $3,029.",
+      "agency": "DCF licenses (63 of 67 counties); DOE Division of Early Learning runs subsidy and VPK",
+      "agencyhead": "DEL Chancellor Cari Miller; Commissioner status unresolved",
+      "ratio4": "1:20 — NO statutory group-size caps; square footage governs",
+      "elig": "55% SMI (HB 1255, 2025)",
+      "copay": "Exceeds 7%; providers may bill families above copay",
+      "ratevintage": "Annual legislative adoption; rates 11–15% BELOW the 75th-percentile benchmark",
+      "waitlist": "Peaked at 18,948 (June 2025)",
+      "qris": "CLASS-based programme assessment. 4.00 composite is a contract gate, not a star rating — and 99% pass, so it is a floor not a screen. Differential capped at 15%.",
+      "prek": "VPK: $433.8M, 153,132 children. Base student allocation $3,029 — FLAT for three consecutive years. 41st of 43 states on per-student spending.",
+      "wage": "$14.00 now; $15.00 on September 30, 2026 — final Amendment 2 step, then CPI-indexed",
+      "session": "March 2, 2027 — committee weeks begin autumn 2026",
+      "politics": "DeSantis term-limited; Donalds (R) leads, rated Solid R. 2027 is a new Governor's first session.",
+      "watch": [
+        "Confirm Florida let enrollment-based and prospective payment lapse — waivers expired August 1",
+        "September 30 — minimum wage hits $15.00 against a flat $3,029 VPK allocation",
+        "Autumn 2026 interim committee weeks — obtain the calendar the day it posts",
+        "Revive HB 345 / SB 512 VPK inflation indexing — a bipartisan sponsor pair is rare in Tallahassee",
+        "Obtain the child care tax credit cap and confirm the SB 738 municipal special assessment exemption is applied"
+      ]
+    },
+    {
+      "id": "AR",
+      "name": "Arkansas",
+      "centers": 14,
+      "dir": "contracting",
+      "pay": "Attendance (40-day annual absence allowance)",
+      "payclass": "warn",
+      "headline": "The most urgent item in the report: the sustainability funding package expires September 30, 2026 with no successor in the public record, no session until January 2027, and a fiscal session that declined to add early childhood money.",
+      "agency": "Dept of EDUCATION — DESE Office of Early Childhood (moved from DHS under LEARNS)",
+      "agencyhead": "Interim OEC Director Ashelyn Abney; Dep. Comm. Stacy Smith",
+      "ratio4": "1:15 (max group 30) — infant 1:5, toddler 1:8, permissive",
+      "elig": "Sliding by SMI; 30 hrs/week work requirement",
+      "copay": "Zero at/below poverty; 7% multi-child cap status unconfirmed",
+      "ratevintage": "Restructured Oct–Nov 2025; 75th percentile, higher in Benton/Washington",
+      "waitlist": "~1,100 (Feb 2025) against 16,000+ enrolled",
+      "qris": "Better Beginnings, now 1–6. Level 2 is the price of admission — losing it terminates subsidy immediately. Tiers 3–4 and 5–6 collapsed: only 2→3 and 4→5 move the rate.",
+      "prek": "Arkansas Better Chance: $5,105/child/yr center-based, 40% match, 15% admin cap. Thin to loss-leading absent in-kind match. Mostly public-school delivered.",
+      "wage": "$7.25 federal floor; state wage data unconfirmed",
+      "session": "January 11, 2027 — regular session",
+      "politics": "Sanders (R) seeking a second term, rated Solid R. Planning assumption: continuity. LEARNS framework persists.",
+      "watch": [
+        "THE SEPTEMBER 30 CLIFF — model a 10–20% subsidy rate reduction now",
+        "Resolve whether the 7% copay cap was adopted",
+        "Obtain the rate table, Better Beginnings 4–6 criteria, and the Early Childhood Commission roster",
+        "Position for the 2027 United WE / OEP licensing-streamlining bill via Sen. Breanne Davis",
+        "Track the ABC rate-floor rematch and its funding source; confirm the $14.0M expiring federal recovery money has a replacement"
+      ]
+    },
+    {
+      "id": "OK",
+      "name": "Oklahoma",
+      "centers": 12,
+      "dir": "contracting",
+      "pay": "Attendance, copay-first",
+      "payclass": "bad",
+      "headline": "Eligibility cut from 85% to 55% of SMI on July 1; 131 centers closed since April. But HB 4298 (approved May 12, 2026) gave operators gap-fee authority and ratio relief, and — uniquely — district pre-K enrollment is FALLING, with children staying in child care centers.",
+      "agency": "Oklahoma Human Services, Child Care Services",
+      "agencyhead": "Director Jeffrey Cartmell (lawyer/governor's-office background)",
+      "ratio4": "1:10 reported — Appendix GG could not be retrieved, UNCONFIRMED",
+      "elig": "55% SMI since July 1, 2026 (was 85%)",
+      "copay": "$0–$473/mo; provider must collect before the state pays",
+      "ratevintage": "Effective January 1, 2023 — unrevised for 3.5 years against +27% infant cost inflation",
+      "waitlist": "Unconfirmed — rationed via application freeze and eligibility cut",
+      "qris": "Reaching for the Stars, five levels. The STEEPEST rate tie in the portfolio: infant 1★ $20.00 → 5★ $50.60/day. The 2★→3★ step alone is +67%.",
+      "prek": "Near-universal school-based 4-year-old pre-K — but enrollment fell from 39,767 (2019-20) to 32,794 (2024-25). NIEER cites children remaining in child care centers.",
+      "wage": "$7.25; educators earn $11–12/hr. HB 2778 gives them free child care.",
+      "session": "~February 1, 2027 (unconfirmed)",
+      "politics": "Stitt term-limited and was the veto point. Republican runoff August 25: Drummond vs. Mazzei. Munson (D). Either successor is likely less hostile.",
+      "watch": [
+        "HB 4298 gap-fee federal approval and OKDHS billing guidance — confirm the operative effective date and do not bill early",
+        "OKDHS rulemaking on master teacher ratios — file comments; the flexibility level is being set now",
+        "The August 25 Republican runoff — cheapest campaign access available",
+        "Fallout from the 55% SMI cut: attrition, receivables, and distressed 3★+ acquisition targets",
+        "HB 1979 task force appointments — seek an industry seat before they close"
+      ]
+    },
+    {
+      "id": "VA",
+      "name": "Virginia",
+      "centers": 7,
+      "dir": "expanding",
+      "pay": "Attendance",
+      "payclass": "warn",
+      "headline": "The most improved environment in the portfolio: waitlist eliminated, statutory biennial re-benchmarking enacted, and the best-priced public revenue stream anywhere — Mixed Delivery at $19,441 a slot, reserved for licensed private providers.",
+      "agency": "VDOE Office of Child Care Health and Safety; VDSS operations",
+      "agencyhead": "Supt. Jenna Conway — an early childhood person running K-12",
+      "ratio4": "1:10 — among the tightest in the portfolio",
+      "elig": "85% SMI, local entry thresholds",
+      "copay": "5% cap — BELOW the former federal ceiling; $5/mo at or below poverty",
+      "ratevintage": "Cost estimation model, rates unchanged since October 2022",
+      "waitlist": "12,144 (Dec 2025) → just over 2,000 (June 2026). Eliminated in the FY27–28 budget.",
+      "qris": "VQB5 — mandatory for ANY site receiving public funds. 700 of 800 points are CLASS interaction scores. No rate differential. Ratings published publicly.",
+      "prek": "VPI at $6,763/slot AND the Mixed Delivery Grant Program at $19,441/slot — contract-based, cost-of-quality, reserved for licensed non-faith-based private settings, ~2x oversubscribed.",
+      "wage": "$12.77 now; $13.75 Jan 2027; $15.00 Jan 2028 — +17.5% over 24 months against frozen rates",
+      "session": "January 2027 — short 'caboose' session amending the adopted biennium",
+      "politics": "Democratic trifecta. NO House elections in Nov 2026 — Virginia holds them in odd years; next is November 2027.",
+      "watch": [
+        "Confirm the 8VAC20-781 effective date, grace period and whether existing variances EXPIRE — this week",
+        "Get inside the SB 134 / HB 1208 re-benchmarking methodology before the numbers publish",
+        "Pursue Mixed Delivery expansion; obtain FY27 guidelines from VECF",
+        "Resolve enrollment vs attendance; obtain the two overdue workgroup reports",
+        "Shape the October 1, 2026 Commission report — it already endorses zoning and licensing simplification"
+      ]
+    },
+    {
+      "id": "AL",
+      "name": "Alabama",
+      "centers": 5,
+      "dir": "flat",
+      "pay": "Enrollment",
+      "payclass": "good",
+      "headline": "One genuinely unusual feature: Alabama's Childcare Facility Tax Credit is written explicitly for FOR-PROFIT providers, is refundable, and scales with quality rating. It sunsets December 31, 2027.",
+      "agency": "DHR Child Care Services (licensing/subsidy); ADECE (pre-K + Quality STARS)",
+      "agencyhead": "DHR Comm. Nancy Buckner; ADECE Sec. Ami Brooks",
+      "ratio4": "1:18 — no published group-size caps",
+      "elig": "60% SMI / 180% FPL — well below the federal ceiling",
+      "copay": "2–5%, assessed PER CHILD; 7% waiver submitted",
+      "ratevintage": "70th percentile of the 2017 survey; schedule dated April 1, 2022 — NINE years stale",
+      "waitlist": "None — priority enrollment categories instead",
+      "qris": "Quality STARS, five levels. +2 to +10% subsidy. Also gates BOTH state tax credits, and the facility credit scales with star level.",
+      "prek": "First Class Pre-K: $84,804–$97,908 per classroom annually plus up to $125,000 setup. 20 straight years at 10/10 NIEER benchmarks. 4,100 children waitlisted; 229 classrooms needed.",
+      "wage": "$7.25 federal floor",
+      "session": "MARCH 2, 2027 — not January; first year of a four-year term",
+      "politics": "Ivey term-limited. Tuberville (R) vs. Jones (D), rated Safe R. Entire Legislature on the ballot. Both agency heads serve at gubernatorial pleasure.",
+      "watch": [
+        "The tax credit sunsets December 31, 2027 — the March 2027 session is the last practical vehicle",
+        "January 5, 2027 reservation window: first-come, first-served, largest pools ever ($20M / $5M), last under current law",
+        "Obtain the First Class Pre-K classroom count BY AUSPICE from ADECE (334-224-3171)",
+        "HB 78 screen-time rulemaking will land on licensed centers",
+        "November 3 cabinet consequences — 20 years of pre-K continuity rests on gubernatorial patronage"
+      ]
+    },
+    {
+      "id": "TN",
+      "name": "Tennessee",
+      "centers": 5,
+      "dir": "split",
+      "pay": "Unconfirmed",
+      "payclass": "warn",
+      "headline": "Simultaneously the most legislatively productive and the most fiscally contractionary state. Two near-unanimous 2026 acts on red tape and dedicated revenue — while the quality bonus was cut so far that a top-scoring provider gained 0.8%.",
+      "agency": "Tennessee Dept of Human Services, Child Care Services",
+      "agencyhead": "Commissioner Clarence H. Carter",
+      "ratio4": "1:13 (max group 18) — permissive by regional standards",
+      "elig": "85% SMI — the federal maximum",
+      "copay": "Universal 5% on EVERY approved family since Oct 1, 2025",
+      "ratevintage": "New table effective January 1, 2026 — but 60th percentile basis",
+      "waitlist": "Active since August 26, 2025; size unpublished",
+      "qris": "Report Card (mandatory, four visits/yr, scores POSTED for parents) + voluntary Star-Quality. Bonus cut Jan 2026 from 15/20% to 5/10%.",
+      "prek": "Voluntary Pre-K, ~935 classrooms, ~$85M. District-controlled: a 142-district business development effort. Three-star QRIS is the hard prerequisite.",
+      "wage": "$7.25; average worker earnings $12,973/yr, 1 in 10 below poverty",
+      "session": "January 2027 — new 115th General Assembly",
+      "politics": "Lee term-limited — the single biggest variable. New governor writes the FY2027-28 budget. A new TDHS commissioner is likely.",
+      "watch": [
+        "Obtain Public Chapter 997 (Promising Futures Act) before its January 1, 2027 provisions take effect",
+        "Obtain Public Chapter 980 and audit the development pipeline against its zoning amendments",
+        "Re-underwrite three-star status: the subsidy return fell from 20% to 10%; VPK access is the remaining case",
+        "Confirm payment basis with TDHS Child Care Fiscal (1-800-362-8004) and request the waitlist count",
+        "Two items already in effect and unexploited: PC 80 for-profit grant eligibility, and PC 873 youth employment"
+      ]
+    },
+    {
+      "id": "KY",
+      "name": "Kentucky",
+      "centers": 2,
+      "dir": "flat",
+      "pay": "Enrollment",
+      "payclass": "good",
+      "headline": "The most consequential legislative cycle in the state's history. HB 6 became law without the Governor's signature — permanent free child care for child care workers, ECCAP privatisation, microcenters, a mandated cost model, and All STARS frozen under legislative control. The money did not grow.",
+      "agency": "CHFS / DCBS / Division of Child Care",
+      "agencyhead": "CHFS Sec. Dr. Steven Stack; DCC director unconfirmed",
+      "ratio4": "1:14 (max group 28) — relatively generous",
+      "elig": "85% SMI — the federal maximum",
+      "copay": "Flat daily chart, $0 to a $25 maximum",
+      "ratevintage": "80th percentile, increased July 2021. Cost model mandated for FFY2028–2030.",
+      "waitlist": "Believed none (unconfirmed)",
+      "qris": "All STARS, five levels. Mandatory for any provider receiving public funds. $25–$45/mo per subsidy child at Levels 3–5. HB 6 froze agency discretion over the system.",
+      "prek": "Kentucky Preschool Program: ~$170M over the biennium, frozen at 2019 levels. 704 KAR 3:410 expressly authorises district contracts with private preschools — under-exploited.",
+      "wage": "$7.25 — no state minimum above the federal floor",
+      "session": "January 5, 2027 — 30-day policy session, no budget",
+      "politics": "Beshear term-limited in 2027. Republican supermajorities override routinely. Every 2027 fight is positioning for the 2028 budget.",
+      "watch": [
+        "ECCAP third-party administrator procurement — due December 1, 2026",
+        "Confirm the ~$40M/yr CCAP rate-maintenance appropriation survived HB 500; obtain the DCC-300",
+        "All STARS modernisation plan due October 1, 2026 — get on the stakeholder list first",
+        "Microcenter regulations July 1, 2027: only TEN statewide, restricted to experienced operators — literal first-mover advantage",
+        "Submit operator-side evidence to the HJR 50 Auditor regulatory review"
+      ]
+    }
+  ],
+  "calendar": [
+    [
+      "Aug 2026",
+      "Arizona",
+      "ADHS 24-hour annual training compliance deadline",
+      "now"
+    ],
+    [
+      "Aug 25, 2026",
+      "Oklahoma",
+      "Republican gubernatorial runoff — Drummond v. Mazzei",
+      "now"
+    ],
+    [
+      "Sep 30, 2026",
+      "Arkansas",
+      "SRA sustainability package EXPIRES — no successor identified",
+      "crit"
+    ],
+    [
+      "Sep 30, 2026",
+      "Florida",
+      "Minimum wage steps to $15.00 — final Amendment 2 step",
+      "crit"
+    ],
+    [
+      "Sep 30, 2026",
+      "Federal",
+      "FY2027 appropriations deadline; CR into the lame duck is the base case",
+      "soon"
+    ],
+    [
+      "Oct 1, 2026",
+      "North Carolina",
+      "Statewide subsidy rate floor takes effect",
+      "soon"
+    ],
+    [
+      "Oct 1, 2026",
+      "Kentucky",
+      "All STARS modernisation plan filed with the legislature",
+      "soon"
+    ],
+    [
+      "Oct 1, 2026",
+      "Virginia",
+      "ECCE Commission annual report — frames the 2027 session",
+      "soon"
+    ],
+    [
+      "Autumn 2026",
+      "Florida",
+      "Interim committee weeks begin — the real policy design window",
+      "soon"
+    ],
+    [
+      "Autumn 2026",
+      "Arizona",
+      "FY2028 agency budget requests — press for a 2024 survey rate rebase",
+      "soon"
+    ],
+    [
+      "Nov 3, 2026",
+      "9 states",
+      "Gubernatorial elections; 7 incumbents term-limited; 2 ESA ballot measures in AZ",
+      "soon"
+    ],
+    [
+      "Dec 1, 2026",
+      "Texas",
+      "Governor's Task Force on Early Childhood reports to the Legislature",
+      "later"
+    ],
+    [
+      "Dec 1, 2026",
+      "Kentucky",
+      "ECCAP third-party administrator must be under contract",
+      "later"
+    ],
+    [
+      "Jan 1, 2027",
+      "Tennessee",
+      "Promising Futures Act second tranche takes effect",
+      "later"
+    ],
+    [
+      "Jan 1, 2027",
+      "Virginia",
+      "Minimum wage steps to $13.75",
+      "later"
+    ],
+    [
+      "Jan 5, 2027",
+      "Alabama",
+      "Tax credit reservation window opens — first-come, first-served",
+      "later"
+    ],
+    [
+      "Jan 5, 2027",
+      "Kentucky",
+      "2027 session convenes — 30-day policy session",
+      "later"
+    ],
+    [
+      "Jan 2027",
+      "GA · NC · TX · VA · TN",
+      "Sessions convene; GA and NC begin new terms",
+      "later"
+    ],
+    [
+      "Jan 11, 2027",
+      "Arkansas · Arizona",
+      "Sessions convene",
+      "later"
+    ],
+    [
+      "Feb 1, 2027",
+      "Oklahoma",
+      "Session convenes (date unconfirmed)",
+      "later"
+    ],
+    [
+      "Mar 2, 2027",
+      "Florida · Alabama",
+      "Sessions convene; FL bill filing deadline at noon",
+      "later"
+    ],
+    [
+      "Jul 1, 2027",
+      "Kentucky",
+      "Microcenter regulations adopted; applications open (10 statewide)",
+      "later"
+    ],
+    [
+      "~Jul 1, 2027",
+      "Federal",
+      "FFY2028–2030 CCDF State Plans due — the comment window in all 11 states",
+      "later"
+    ],
+    [
+      "Dec 31, 2027",
+      "Alabama",
+      "Child Care Tax Credit Act SUNSETS",
+      "crit"
+    ]
+  ],
+  "opens": [
+    [
+      "Tier 1",
+      "Subsidy payment basis post-rescission — enrollment or attendance",
+      "Georgia · North Carolina · Tennessee (159 centers)",
+      "CAPS Policy Manual §00-12; DCDEE; TDHS 1-800-362-8004"
+    ],
+    [
+      "Tier 1",
+      "8VAC20-781 effective date, grace period and variance expiry",
+      "Virginia",
+      "VDOE Office of Child Care Health and Safety"
+    ],
+    [
+      "Tier 1",
+      "Successor funding after September 30",
+      "Arkansas",
+      "Dep. Comm. Stacy Smith; Early Childhood Commission agendas"
+    ],
+    [
+      "Tier 1",
+      "Whether enrollment-based and prospective payment were abandoned",
+      "Florida",
+      "Rule 6M-4.500 text; July 31 CCDF plan amendment"
+    ],
+    [
+      "Tier 1",
+      "QRIS decoupling plan due May 1, 2026",
+      "North Carolina",
+      "DCDEE or the Joint Legislative Oversight Committee on HHS"
+    ],
+    [
+      "Tier 1",
+      "Public Chapter 997 and 980 operative text",
+      "Tennessee",
+      "Secretary of State — both blocked automated retrieval"
+    ],
+    [
+      "Tier 1",
+      "40 TAC Chapter 809 proposed rule redline",
+      "Texas",
+      "TWC"
+    ],
+    [
+      "Tier 2",
+      "Current reimbursement rate tables by zone, age and star level",
+      "GA · AR · KY · TX",
+      "Provider portals / direct agency request"
+    ],
+    [
+      "Tier 2",
+      "Appendix GG ratios AND maximum group sizes",
+      "Oklahoma",
+      "OKDHS Child Care Services"
+    ],
+    [
+      "Tier 2",
+      "Maximum group sizes",
+      "Texas",
+      "HHSC Chapter 746 PDF"
+    ],
+    [
+      "Tier 2",
+      "First Class Pre-K classroom count BY AUSPICE",
+      "Alabama",
+      "ADECE Office of School Readiness, 334-224-3171"
+    ],
+    [
+      "Tier 2",
+      "Tax credit uptake versus cap, 2025 and 2026",
+      "Alabama",
+      "Dept of Revenue, Tax Incentives division"
+    ],
+    [
+      "Tier 2",
+      "Child care tax credit annual cap and remaining allocation",
+      "Florida",
+      "Florida Dept of Revenue"
+    ],
+    [
+      "Tier 2",
+      "Better Beginnings level 4, 5 and 6 published requirements",
+      "Arkansas",
+      "Office of Early Childhood"
+    ],
+    [
+      "Tier 2",
+      "FY27 Mixed Delivery funding, slots and per-slot rates",
+      "Virginia",
+      "VECF / Ready Region coordinators"
+    ],
+    [
+      "Tier 2",
+      "Pre-K collaboration contracting pathway and pass-through rate",
+      "Oklahoma",
+      "OSDE Early Childhood + individual districts"
+    ],
+    [
+      "Tier 2",
+      "Enacted FY27/FY28 line items for CCAP, ECCAP, worker subsidy",
+      "Kentucky",
+      "HB 500 CHFS section / LRC budget memorandum"
+    ],
+    [
+      "Tier 3",
+      "Inspection frequency and enforcement trend data",
+      "ALL ELEVEN STATES",
+      "Records requests — start with NC, GA, AZ, TX"
+    ],
+    [
+      "Tier 3",
+      "Liability insurance market conditions and premium trends",
+      "All — live issue in NC, GA and AR",
+      "Broker-side inquiry; not resolvable from public sources"
+    ],
+    [
+      "Tier 3",
+      "Zoning treatment of child care facilities",
+      "Local in all eleven states",
+      "No comprehensive picture exists"
+    ]
+  ],
+  "ratios": [
+    [
+      "Georgia",
+      "1:6",
+      "1:8",
+      "1:10",
+      "1:15",
+      "1:18",
+      "1:20",
+      "1:25",
+      "Yes — 12/16/20/30/36/40/50"
+    ],
+    [
+      "Texas",
+      "1:4",
+      "1:5 / 1:9",
+      "1:11",
+      "1:15",
+      "1:18",
+      "1:22",
+      "1:26",
+      "Unconfirmed"
+    ],
+    [
+      "Alabama",
+      "1:5",
+      "1:7",
+      "1:8",
+      "1:11",
+      "1:18",
+      "1:18",
+      "1:21–22",
+      "None published"
+    ],
+    [
+      "Arkansas",
+      "1:5",
+      "1:8",
+      "1:12",
+      "1:12",
+      "1:15",
+      "1:18",
+      "1:18",
+      "Yes — 2× the ratio"
+    ],
+    [
+      "Arizona",
+      "1:5",
+      "1:6",
+      "1:8",
+      "1:13",
+      "1:15",
+      "1:20",
+      "1:20",
+      "None — youngest child sets ratio"
+    ],
+    [
+      "Tennessee",
+      "1:4",
+      "1:6",
+      "1:7",
+      "1:9",
+      "1:13",
+      "1:16",
+      "1:20",
+      "Yes — 8/12/14/16/18/20"
+    ],
+    [
+      "Kentucky",
+      "1:5",
+      "1:6",
+      "1:10",
+      "1:12",
+      "1:14",
+      "1:15",
+      "1:20–25",
+      "Yes (Type I) — 10/12/20/24/28/30"
+    ],
+    [
+      "North Carolina",
+      "1:5",
+      "1:6",
+      "1:10",
+      "1:15",
+      "1:20",
+      "1:25",
+      "1:25",
+      "Yes — 10/12/20/25/25/25"
+    ],
+    [
+      "Florida",
+      "1:4",
+      "1:6",
+      "1:11",
+      "1:15",
+      "1:20",
+      "1:25",
+      "1:25",
+      "None — square footage governs"
+    ],
+    [
+      "Oklahoma",
+      "1:4",
+      "1:5",
+      "1:5",
+      "1:10",
+      "1:10",
+      "1:10",
+      "—",
+      "Unconfirmed"
+    ],
+    [
+      "Virginia",
+      "1:4",
+      "1:5",
+      "1:8",
+      "1:10",
+      "1:10",
+      "1:10",
+      "1:18–20",
+      "School-age only (max 100)"
+    ]
+  ]
+}
