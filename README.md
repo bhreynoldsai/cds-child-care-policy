@@ -158,3 +158,18 @@ The material has a short half-life. The items most likely to be stale first:
 
 Part V of the report is a dated monitoring calendar running through the end of
 2027; the same items drive the dashboard's Calendar tab from `data.json`.
+
+---
+
+## Hosting the dashboard
+
+`vercel.json` publishes `dashboard/` as a static site — no build step, no
+dependencies. `dashboard/index.html` is served at the site root.
+
+Only `dashboard/` is published. `dist/` — the PDF and Word deliverables — stays
+in version control but is never served, so the report itself is not reachable
+from the public URL.
+
+To change what the site shows, edit `dashboard/data.json`, run
+`python3 scripts/build_dashboard.py`, and commit the regenerated
+`dashboard/index.html`. Vercel redeploys on push to `main`.
