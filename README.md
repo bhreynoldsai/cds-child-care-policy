@@ -149,7 +149,7 @@ and confidence marks.
 The material has a short half-life. The items most likely to be stale first:
 
 - **Payment basis** in Georgia, North Carolina and Tennessee — unconfirmed at
-  time of writing and covering 159 of the 267 centers.
+  time of writing and covering 158 of the 267 centers.
 - **Arkansas** subsidy funding, which expires September 30, 2026.
 - **North Carolina's** statewide rate floor, effective October 1, 2026.
 - **Every political map**, after the November 3, 2026 elections — nine

@@ -15,6 +15,9 @@ states[]   one object per state; `id`, `name`, `centers`, `dir`, `pay`,
            detail panel and a `watch` list of strings.
            dir      -> expanding | contracting | flat | split   (card edge colour)
            payclass -> good | warn | bad                        (tag colour)
+           ratecurrent -> bool; whether the rate benchmark is current. Set
+                       explicitly per the staleness table in src/02-comparison.md
+                       rather than inferred from the `ratevintage` prose.
 calendar[] [date, state, item, urgency]  urgency -> crit | now | soon | later
 opens[]    [tier, item, where, route]    tier -> "Tier 1" | "Tier 2" | "Tier 3"
 ratios[]   [state, infant, 1yr, 2yr, 3yr, 4yr, 5yr, school-age, group-size note]

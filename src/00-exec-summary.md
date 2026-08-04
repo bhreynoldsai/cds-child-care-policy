@@ -14,7 +14,7 @@ This summary accompanies a full landscape assessment covering the federal framew
 
 **1. The federal floor beneath subsidy revenue was removed three weeks ago.** On May 12, 2026, the Administration for Children and Families published *Restoring Flexibility in the Child Care and Development Fund* (91 FR 25796), effective **July 13, 2026**. It rescinded the four provider-facing mandates of the March 2024 CCDF rule: the seven percent family copayment cap, enrollment-based payment, prospective payment, and grants and contracts for underserved populations. States may keep any of them. None is required.
 
-Revenue predictability in the subsidy book is now an eleven-state monitoring problem rather than a single federal guarantee. Three states in the footprint pay on enrollment (Alabama, Kentucky, Texas); five pay on attendance (Arizona, Arkansas, Florida, Oklahoma, Virginia); and **three are unconfirmed and should be resolved this month — Georgia, North Carolina and Tennessee, which together account for 159 centers.**
+Revenue predictability in the subsidy book is now an eleven-state monitoring problem rather than a single federal guarantee. Three states in the footprint pay on enrollment (Alabama, Kentucky, Texas); five pay on attendance (Arizona, Arkansas, Florida, Oklahoma, Virginia); and **three are unconfirmed and should be resolved this month — Georgia, North Carolina and Tennessee, which together account for 158 centers.**
 
 The rulemaking record is the strategic tell: 1,244 comments, with the majority of unique comments opposing the rescissions and the majority of the seven state agencies that commented supporting them. **State administrators wanted this flexibility back.** Changes will therefore arrive through policy transmittals and state plan amendments rather than legislation, with correspondingly less notice. Missouri has already paused prospective payment and Washington has defunded enrollment-based payment. Both are fiscal-stress cases. **Prioritize monitoring by state fiscal condition, not political lean.**
 
@@ -57,7 +57,7 @@ Two departures matter most. In **Georgia**, Lt. Gov. Burt Jones — architect of
 |---|---|
 | This week | Confirm Virginia's 8VAC20-781 effective date, grace period and **whether existing variances expire** |
 | August | Arizona's 24-hour annual training compliance deadline — audit records at all 30 sites |
-| August | Resolve subsidy payment basis in Georgia, North Carolina and Tennessee — 159 centers |
+| August | Resolve subsidy payment basis in Georgia, North Carolina and Tennessee — 158 centers |
 | August | Read Florida Rule 6M-4.500 and the July 31 plan amendment to confirm payment basis |
 | Aug–Sept | **Arkansas: the sustainability package expires September 30 with no successor and no session until January.** Model a 10–20% rate reduction |
 | August recess | Congressional center visits, including in the districts of the House Labor-HHS and House Appropriations chairs |

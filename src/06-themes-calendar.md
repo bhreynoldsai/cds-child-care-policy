@@ -103,7 +103,7 @@ North Carolina's Licensed Childcare Licensure Workgroup on conflicts among build
 | **This week** | Confirm the 8VAC20-781 effective date, grace period and **whether existing variances expire** | Virginia |
 | **August 2026** | ADHS 24-hour annual training compliance deadline — audit records at all 30 sites | Arizona |
 | **August 2026** | Read current Rule 6M-4.500 and obtain the July 31 CCDF plan amendment to confirm payment basis | Florida |
-| **August 2026** | Resolve payment basis with DECAL, DCDEE and TDHS — 159 centers across the three | GA, NC, TN |
+| **August 2026** | Resolve payment basis with DECAL, DCDEE and TDHS — 158 centers across the three | GA, NC, TN |
 | **August–September** | Establish direct contact with the Office of Early Childhood ahead of the **September 30 funding cliff**; model a 10–20% rate reduction | Arkansas |
 | **August 25, 2026** | Republican gubernatorial runoff — engage both campaigns | Oklahoma |
 | **August recess** | Congressional center visits, including the districts of the House Labor-HHS and House Appropriations chairs | AL, OK, all |
@@ -172,7 +172,7 @@ Nothing time-sensitive in this report is drawn from general knowledge.
 
 | Item | State | Route |
 |---|---|---|
-| **Subsidy payment basis post-rescission** — enrollment or attendance, and payment timing | **Georgia, North Carolina, Tennessee** (159 centers) | DECAL CAPS Policy Manual §00-12; DCDEE; TDHS Child Care Fiscal 1-800-362-8004 |
+| **Subsidy payment basis post-rescission** — enrollment or attendance, and payment timing | **Georgia, North Carolina, Tennessee** (158 centers) | DECAL CAPS Policy Manual §00-12; DCDEE; TDHS Child Care Fiscal 1-800-362-8004 |
 | **8VAC20-781 effective date, grace period, and variance expiry** | Virginia | VDOE Office of Child Care Health and Safety |
 | **Successor funding for School Readiness Assistance after September 30** | Arkansas | Deputy Commissioner Stacy Smith; Early Childhood Commission agendas |
 | **Whether Florida abandoned enrollment-based and prospective payment** | Florida | Current Rule 6M-4.500 text; the July 31, 2026 CCDF plan amendment |

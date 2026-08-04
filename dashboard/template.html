@@ -272,8 +272,8 @@ tbl('tRatio',['State','Infant','1 yr','2 yr','3 yr','4 yr','5 yr','School age','
 
 tbl('tSub',['State','Centers','Rate methodology','Rate vintage','Entry eligibility','Payment basis','Waitlist'],
   S.map(s=>['<b>'+s.name+'</b>',s.centers,s.ratevintage.split(';')[0],
-    '<span class="tag t-'+(/CURRENT|Current|2025|Restructured|New table|Annual/.test(s.ratevintage)?'good':'warn')+'">'+
-      (/CURRENT|Current|2025|Restructured|New table|Annual/.test(s.ratevintage)?'Current':'Stale')+'</span>',
+    '<span class="tag t-'+(s.ratecurrent?'good':'warn')+'">'+
+      (s.ratecurrent?'Current':'Stale')+'</span>',
     s.elig,'<span class="tag t-'+s.payclass+'">'+s.pay+'</span>',s.waitlist]));
 
 tbl('tQ',['State','System','How it links to money'],
