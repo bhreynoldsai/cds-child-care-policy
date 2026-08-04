@@ -1,1 +1,5 @@
-weasyprint>=60
+# Pinned: WeasyPrint controls PDF pagination, so an unpinned range silently
+# re-typesets the report. 69.0 is the version that produced the committed
+# dist/ PDFs (109pp). The original 104pp typesetting came from an earlier
+# unrecorded version — change this pin to restore it.
+weasyprint==69.0
