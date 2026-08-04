@@ -152,8 +152,8 @@ The material has a short half-life. The items most likely to be stale first:
   time of writing and covering 158 of the 267 centers.
 - **Arkansas** subsidy funding, which expires September 30, 2026.
 - **North Carolina's** statewide rate floor, effective October 1, 2026.
-- **Every political map**, after the November 3, 2026 elections — nine
-  gubernatorial races, seven with term-limited incumbents, and committee
+- **Every political map**, after the November 3, 2026 elections — eight
+  gubernatorial races, five with term-limited incumbents, and committee
   assignments resetting in states that begin new terms in January 2027.
 
 Part V of the report is a dated monitoring calendar running through the end of

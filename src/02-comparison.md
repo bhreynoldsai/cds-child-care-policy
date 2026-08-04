@@ -193,7 +193,7 @@ Public pre-K is simultaneously the largest public revenue opportunity and the la
 
 ## 2.6 The 2027 Legislative Calendar and Political Turnover
 
-Nine of the eleven states elect a governor on November 3, 2026. In seven, the incumbent is term-limited.
+Eight of the eleven states elect a governor on November 3, 2026. In five, the incumbent is term-limited.
 
 | State | 2027 session convenes | Governor's race | Notes |
 |---|---|---|---|

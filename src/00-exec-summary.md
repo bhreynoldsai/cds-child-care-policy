@@ -18,7 +18,7 @@ Revenue predictability in the subsidy book is now an eleven-state monitoring pro
 
 The rulemaking record is the strategic tell: 1,244 comments, with the majority of unique comments opposing the rescissions and the majority of the seven state agencies that commented supporting them. **State administrators wanted this flexibility back.** Changes will therefore arrive through policy transmittals and state plan amendments rather than legislation, with correspondingly less notice. Missouri has already paused prospective payment and Washington has defunded enrollment-based payment. Both are fiscal-stress cases. **Prioritize monitoring by state fiscal condition, not political lean.**
 
-**2. Nine of the eleven states elect a governor on November 3, 2026, and in seven the incumbent is term-limited.** Committee assignments reset, agency heads serving at gubernatorial pleasure are in play, and the relationships that produced the last two years of favorable action do not automatically survive.
+**2. Eight of the eleven states elect a governor on November 3, 2026, and in five the incumbent is term-limited.** Committee assignments reset, agency heads serving at gubernatorial pleasure are in play, and the relationships that produced the last two years of favorable action do not automatically survive.
 
 Two departures matter most. In **Georgia**, Lt. Gov. Burt Jones — architect of the state's entire child care tax credit agenda — lost the Republican runoff on June 16, and no successor study committee exists. In **Alabama**, twenty years of unbroken First Class Pre-K continuity has rested substantially on gubernatorial patronage, at exactly the moment the state's child care tax credits approach a December 31, 2027 sunset.
 
